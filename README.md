@@ -1,10 +1,12 @@
 - 👋 Hi, I’m @frasoliani98, i'm a biomedical engineer (bachelor degree) and im currently doing my masther's thesis student at Brooklyn (New York), Suny Downstate
 
-- 👀 I’m interested in COMPUTATIONAL CARDIOLOGY, ELECTROPHISIOLOGY, BIOMEDICAL ENGINEERING
+- Master thesis title "Co-expression of calcium (ICaL) and hERG potassium (IKr) channels could reduce the incidence of EADs in a single cardiomyocite cell"
+
+- 👀 I’m interested in COMPUTATIONAL CARDIOLOGY, ELECTROPHySIOLOGY, BIOMEDICAL ENGINEERING
 
 - 🌱 I’m currently learning Python and Latex. I have 5 years experience on MATLAB 
 
-- 💞️ I’m looking to collaborate on electrophisiology field
+- 💞️ I’m looking to collaborate on electrophysiology field
 
 - 📫 How to reach me:
 1) Instagram: frasoliani_
