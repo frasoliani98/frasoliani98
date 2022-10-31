@@ -2,7 +2,7 @@
 
 - Master thesis title "Co-expression of calcium (ICaL) and hERG potassium (IKr) channels could reduce the incidence of EADs in a single cardiomyocite cell"
 
-- 👀 I’m interested in COMPUTATIONAL CARDIOLOGY, ELECTROPHySIOLOGY, BIOMEDICAL ENGINEERING
+- 👀 I’m interested in COMPUTATIONAL CARDIOLOGY, ELECTROPHYSIOLOGY, BIOMEDICAL ENGINEERING
 
 - 🌱 I’m currently learning Python and Latex. I have 5 years experience on MATLAB 
 
